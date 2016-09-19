@@ -1,9 +1,8 @@
 Foxlogin
 ===
-Foxlogin just is a promram that can get your Exams/Score/Timetable quickly.</br>
+Foxlogin just is a program that can get your Exams/Score/Timetable quickly.</br>
 We optimized those page so that they appear more quickly.</br>
-If you want to use the exe file.You can download it from "https://yunpan.cn/cMqRsqXNIIPVV (Code:1c96)" , </br>
-which's a last release version.</br>
+If you want to use the exe file.You can download it from "https://yunpan.cn/cMqRsqXNIIPVV (Code:1c96)". </br>
 
 ###Platform:
 	*python 3.5.2
@@ -20,7 +19,7 @@ We use the pyinstaller to package our project , Which command is
 </br>
 </br>
 </br>
-If you hava any questions you can connect us !! 
+If you have any questions you can connect us !! 
 </br>
 find_by_u@163.com
 
